@@ -27,3 +27,4 @@ function decimalToBinary(numero) {
 console.log(decimalToBinary(5));
 console.log(decimalToBinary(67));
 console.log(decimalToBinary(181));
+
