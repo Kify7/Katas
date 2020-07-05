@@ -19,3 +19,5 @@ function longestCountry(arreglo) {
 }
  
 console.log(longestCountry(["México", "Panamá", "Guatemala", "El Salvador"]));
+
+
